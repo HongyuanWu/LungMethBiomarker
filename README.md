@@ -1,3 +1,3 @@
 # LungMethBiomarker
 1. TSG1(PCDH8,ZIC1,PCDH17,TBX5,IRX1)
-2. TSG2
+2. TDM()
